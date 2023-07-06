@@ -15,3 +15,8 @@ This is the Repository of HTML file, CSS file, and JavaScript file for Weekly As
 
 https://www.epslogistics.site/
 
+# Deploy Documentation
+
+This is the documentation for Deploy Weekly Assignments Project;
+
+Step 1: 
