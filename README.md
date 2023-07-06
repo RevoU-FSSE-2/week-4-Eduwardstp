@@ -43,5 +43,15 @@ Step 9: Click Deploy Site
 ![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/Login%20%26%20Deploy%20Netlify/7-9%20pilih%20branch%20main%20and%20deploy.png?raw=true)
 
 Step 10 : Site Name (After Deploy)
+
 Step 11: Click Domain Settings
 ![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/Login%20%26%20Deploy%20Netlify/10-11%20hasil%20deploy%20%26%20setting%20domain.png?raw=true)
+
+Step 12: Chose the site name and Edit the site name
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/Login%20%26%20Deploy%20Netlify/12%20edit%20site%20name.png?raw=true)
+
+Step 13: Fill The site name
+
+Step 14: Then Save
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/Login%20%26%20Deploy%20Netlify/13-14%20change%20name%20and%20save.png?raw=true)
+
