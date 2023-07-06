@@ -55,3 +55,49 @@ Step 13: Fill The site name
 Step 14: Then Save
 ![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/Login%20%26%20Deploy%20Netlify/13-14%20change%20name%20and%20save.png?raw=true)
 
+## Custom DNS Documentation
+
+This is the documentation for Custom DNS on Cloudflare
+
+Step 1: Login to Cloudflare https://dash.cloudflare.com/login
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/1%20login%20cloudflare.png?raw=true)
+
+Step 2: Enter the Domain that you have bought before
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/2%20enter%20domain%20and%20add%20site.png?raw=true)
+
+Step 3: Go to DNS tab - Click "add record"
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/3%20add%20record.png?raw=true)
+
+Step 4: Chose the Type to "CNAME"
+
+Step 5: Name "www"
+
+Step 6: Copy & Paste Netlify Subdomain to Target
+
+Step 7: Then Save
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/4-7%20type%20Name%20Target%20save.png?raw=true)
+
+Step 8: Go to "Domain Settings" on Netlify
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/8%20go%20to%20netlify%20domain%20setting.png?raw=true)
+
+Step 9: Click "Add Domain"
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/9%20add%20domain.png?raw=true)
+
+Step 10: Enter your Custom Domain Name
+
+Step 11: Click Verify
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/10-11%20input%20custom%20domain%20and%20verify.png?raw=true)
+
+Step 12: Click "Add Domain" after Verify
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/12%20add%20domain.png?raw=true)
+
+Step 13: Finish! Enjoy!
+![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/13%20done.png?raw=true)
+
+
+
+
+
+
+
+
