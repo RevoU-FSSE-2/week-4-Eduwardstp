@@ -79,6 +79,7 @@ Step 7: Then Save
 ![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/4-7%20type%20Name%20Target%20save.png?raw=true)
 
 Step 8: Go to "Domain Settings" on Netlify
+
 ![alt text](https://github.com/RevoU-FSSE-2/week-4-Eduwardstp/blob/main/pict/assets%20documentasi/custom%20DNS/8%20go%20to%20netlify%20domain%20setting.png?raw=true)
 
 Step 9: Click "Add Domain"
