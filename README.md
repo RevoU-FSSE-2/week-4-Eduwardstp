@@ -13,7 +13,7 @@ This is the Repository of HTML file, CSS file, and JavaScript file for Weekly As
 
 ## Deploy-Link
 
-https://epslogistics.site/
+https://zippy-yeot-4ed1a7.netlify.app/
 
 # Deploy Documentation
 
